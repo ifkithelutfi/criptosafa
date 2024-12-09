@@ -1,0 +1,18 @@
+body {
+    background-color: #181818;
+    color: white;
+  }
+  header {
+    background-image: linear-gradient(to right, #3a3a3a, #181818);
+  }
+  .table-dark {
+    color: white;
+  }
+  .table-dark tbody tr td,
+  .table-dark thead th {
+    vertical-align: middle;
+  }
+  footer {
+    background-color: #101010;
+  }
+  
